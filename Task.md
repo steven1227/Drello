@@ -1,9 +1,27 @@
-## Tasks 
+## Tasks
+
+### Components
+- [ ] Doctor
+- [ ] Patient
+- [ ] Nurse
+- [ ] Bed
+- [ ] Blood Bank: BloodBankDonner and BloodBankStatus
+- [ ] Report
+- [ ] Message between Doctor and Patient
+- [ ] Appointment
+- [ ] Invoice
+- [ ] Event
+- [ ] Department
+- [ ] Admin
+- [ ] User
+- [ ] Different Dashboard
+- [ ] Other user type
 
 ### Authentication
 
 - Registeration
 - Third party Login
+
 
 ### Dashboard
 - The dashboard should be card-based
@@ -11,7 +29,7 @@
 - Each task in a list should be displayed as a card
 - User could add a task in each of the list, and task would be stored in the database
 - Each task can be dragged through these three lists
-- Each task shoud have a deadline, and when deadline is < 1 day, there should be a notification
+- Each task should have a deadline, and when deadline is < 1 day, there should be a notification
 
 ###Customization
 - Change the color of the board, card, add labels..
